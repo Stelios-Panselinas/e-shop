@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NullLineReadedException
+comment1.params=message
+comment1.target=NullLineReadedException(java.lang.String)
+numComments=2

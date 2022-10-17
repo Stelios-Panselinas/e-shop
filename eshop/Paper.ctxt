@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Paper
+comment1.params=name\ price\ description\ stock\ id\ productCategory\ pages\ weight
+comment1.target=Paper(java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDetails()
+comment3.params=
+comment3.target=int\ getProductCategory()
+numComments=4

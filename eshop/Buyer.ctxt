@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Buyer
+comment1.params=name\ email
+comment1.target=Buyer(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Buyer()
+comment3.params=
+comment3.target=ShoppingCart\ getCart()
+comment4.params=
+comment4.target=int\ getBonus()
+comment5.params=
+comment5.target=java.lang.String\ getCategory()
+comment6.params=b
+comment6.target=void\ setBonus(int)
+comment7.params=cost
+comment7.target=void\ awardBonus(double)
+comment8.params=bonus
+comment8.target=void\ setBuyerCategory(int)
+comment9.params=i\ q
+comment9.target=void\ placeOrder(Item,\ int)
+numComments=10
